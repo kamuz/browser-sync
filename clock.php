@@ -6,6 +6,7 @@
   <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 </head>
 <body>
+  <h1>Cool Time by PHP and AJAX</h1>
   <p id="time"></p>
   <a href="index.php">Go back</a>
   <script>

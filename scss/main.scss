@@ -1,0 +1,6 @@
+$light-gray: #ccc;
+
+body{
+	background-color: $light-gray;
+	color: darken($light-gray, 80%);
+}
