@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Browersync testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamuz/browser-sync.git"
+  },
+  "author": "Vladimir Kamuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamuz/browser-sync/issues"
+  },
+  "homepage": "https://github.com/kamuz/browser-sync#readme",
+  "devDependencies": {
+    "browser-sync": "^2.14.0"
+  }
+}
